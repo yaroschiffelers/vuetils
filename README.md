@@ -1,6 +1,6 @@
-# Git-boilerplate
+# Vuetils
 
-Starting a new project and using git(hub)? Use this template to get up and running quickly. [One Paragraph of project description goes here] 
+Vue utilities
 
 ## Getting Started
 
@@ -69,13 +69,14 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduc
 
 ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/yaroschiffelers/Git-boilerplate/tags). 
+We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/yaroschiffelers/vuetils/tags). 
 
 ## Authors
 
 * [**Yaro Schiffelers**](https://github.com/yaroschiffelers) - *Initial work* 
+* [**Daniël Baars**](https://github.com/danielbaars) - *Initial work* 
 
-See also the list of [contributors](https://github.com/yaroschiffelers/Git-boilerplate/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/yaroschiffelers/vuetils/contributors) who participated in this project.
 
 ## License
 
